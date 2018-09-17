@@ -58,7 +58,7 @@ th,td{border:1px solid #1c5096}
 th{font-size: .15rem;line-height: .28rem;white-space:nowrap}
 td{line-height: .24rem}
 td,th{padding:.1rem .1rem;word-break:break-all}
-body{width:100%;height:100%;cursor:default;background:url(../images/bg.jpg) 50% no-repeat;background-size:cover;color:#fff;font-size:.16rem;visibility: hidden}
+body{width:100%;height:100%;cursor:default;background:url(../images/bg.jpg) 50% no-repeat;background-size:cover;color:#fff;font-size:.16rem}
 .trace_bg{background-image:url(../images/trace_bg.jpg)}
 button,a{cursor:pointer}
 input::-ms-clear{display:none}
